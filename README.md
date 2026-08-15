@@ -49,16 +49,16 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhangyongtian&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&text_color=363636&icon_color=2980B9&title_color=2C3E50" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyongtian&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&text_color=363636&title_color=2C3E50&langs_count=8" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zhangyongtian&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyongtian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhangyongtian&theme=transparent&hide_border=true&background=00000000&stroke=2980B9&ring=2980B9&fire=E67E22&currStreakLabel=2C3E50&currStreakNum=2C3E50&sideNums=363636&sideLabels=363636&dates=7F8C8D" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zhangyongtian&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhangyongtian&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zhangyongtian&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
