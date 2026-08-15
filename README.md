@@ -46,19 +46,17 @@
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhangyongtian&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhangyongtian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="160" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zhangyongtian&theme=tokyonight&hide_border=true&cache_seconds=86400" height="160" alt="GitHub Streak" />
-</div>
+![Repos](https://img.shields.io/badge/Repositories-104-2980B9?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/zhangyongtian?label=Followers&style=for-the-badge&logo=github&color=181717)
+![Years Active](https://img.shields.io/badge/Years_Active-3%2B-E67E22?style=for-the-badge&logo=githubsponsors&logoColor=white)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhangyongtian&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
+![Achievements](https://img.shields.io/badge/Achievements-Pull_Shark%20%E2%80%A2%20Quickdraw%20%E2%80%A2%20YOLO-27AE60?style=for-the-badge&logo=github&logoColor=white)
+![OSS Contributions](https://img.shields.io/badge/OSS_Contrib-Apache_Doris%20%E2%80%A2%20Dinky-9B59B6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
 </div>
 
 ---
@@ -161,5 +159,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhangyongtian&color=2980B9&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Thanks_for_stopping_by-%F0%9F%91%8B-2980B9?style=for-the-badge&logo=github&logoColor=white" alt="Thanks" />
 </div>
